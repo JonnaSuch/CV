@@ -1,6 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background: #e5e5e5;
+  text-decoration: none;
 }
 .wrapper {
   display: flex;
@@ -29,6 +30,7 @@ aside {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
+  text-decoration: none;
 }
 
 .bold {
